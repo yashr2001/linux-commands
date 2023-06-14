@@ -1,0 +1,15 @@
+Command 1: mkdir ~/linux-assignment
+Command 2: cd ~/linux-assignment
+Command 3: touch instructions.txt
+Command 4: nano instructions.txt
+Command 5: cat instructions.txt
+Command 6: mv instructions.txt greetings.txt
+Command 7: cp greetings.txt salutations.txt
+Command 8: rm greetings.txt
+Command 9: mkdir archive
+Command 10: mv salutations.txt archive/
+Command 11: pwd
+Command 12: ls archive/
+Command 13: cd ~/linux-assignment
+Command 14: touch file1.txt file2.txt file3.txt
+Command 15: ls
